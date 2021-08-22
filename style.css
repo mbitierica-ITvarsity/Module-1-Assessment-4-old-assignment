@@ -1,0 +1,14 @@
+h2{
+color: crimson;    
+font-family:monospace;  
+
+}
+table{
+font-family: Helvetica,sans-serif;
+border-collapse:collapse;    
+border-width: 2px;    
+border-style: ridge;
+border-color: darkblue;
+font-weight :800;
+background-color:aqua;
+    color:black;
